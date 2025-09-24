@@ -54,3 +54,5 @@ API key can be typed in manually without need of .env
     erc20_transactions.csv  #[raw data] Erc20 Transaction history of 
     contracts.json          #[raw data] Involved address in transaction history
 
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests with improvements. Please ensure code aligns with the project's structure and includes relevant tests.
